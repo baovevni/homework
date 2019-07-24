@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d99227-f78a-4f4f-a778-f502dd9eb979" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CatsAndDogs/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatsAndDogs/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatsAndDogs/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatsAndDogs/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatsAndDogs/CatsAndDogs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatsAndDogs/src/md/tekwill/catsanddogs/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatsAndDogs/src/md/tekwill/catsanddogs/Cats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CatsAndDogs/src/md/tekwill/catsanddogs/Dogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraTascClassAndSubclasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraTascClassAndSubclasses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraTascClassAndSubclasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraTascClassAndSubclasses/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraTascClassAndSubclasses/ExtraTascClassAndSubclasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraTascClassAndSubclasses/src/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraTascClassAndSubclasses/src/firstSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraTascClassAndSubclasses/src/secondClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatsAndDogs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatsAndDogs/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/extratask/Parent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -36,21 +37,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/extratask/firstSubClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="9" lean-forward="true" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/extratask/secondClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <caret line="4" column="33" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="e#156#157#0" expanded="true" />
               </folding>
@@ -90,10 +87,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1735" />
+    <option name="y" value="90" />
+    <option name="width" value="1464" />
+    <option name="height" value="814" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -126,6 +124,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -271,9 +270,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="1735" y="90" width="1464" height="814" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25105485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,19 +323,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/md/tekwill/stars/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/md/tekwill/stars/Demo.java" />
     <entry file="file://$PROJECT_DIR$/src/md/tekwill/stars/StarsAndLinesImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -364,38 +352,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/extratask/MainClass.java">
+    <entry file="file://$PROJECT_DIR$/src/extratask/MainClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/extratask/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extratask/firstSubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" lean-forward="true" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/extratask/secondClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <caret line="4" column="33" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="e#156#157#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extratask/firstSubClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extratask/Parent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
