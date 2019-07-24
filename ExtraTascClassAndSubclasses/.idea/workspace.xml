@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40a46cad-1e48-4e4a-9389-058607df2d09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtraTascClassAndSubclasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstSubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CatsAndDogs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatsAndDogs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../basics2.12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basics2.12/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40a46cad-1e48-4e4a-9389-058607df2d09" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="814" />
