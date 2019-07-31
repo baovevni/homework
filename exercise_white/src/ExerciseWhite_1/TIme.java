@@ -11,11 +11,11 @@ public class TIme {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number of seconds:");
         long secondsEntered = scanner.nextLong();
-        int days = (int)secondsEntered/day;
-        int secondsRemains = (int)secondsEntered - days * day;
-        int hours = secondsRemains/hour;
+        int days = (int) secondsEntered / day;
+        int secondsRemains = (int) secondsEntered - days * day;
+        int hours = secondsRemains / hour;
         secondsRemains = secondsRemains - hours * hour;
-        int minutes = secondsRemains/min;
+        int minutes = secondsRemains / min;
         secondsRemains = secondsRemains - minutes * min;
         int seconds = secondsRemains;
 

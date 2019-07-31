@@ -17,12 +17,11 @@ public class Degrees {
         System.out.println("Finally, enter the seconds of arc: ");
         int seconds = scanner.nextInt();
         double degreesToDisplay = convertToDecimalDegrees(degrees, minutes, seconds);
-        DecimalFormat df = new DecimalFormat("#.0000");
-        System.out.println(degrees + " degrees, " + minutes + " minutes, " + seconds + " seconds = " + df.format(degreesToDisplay) + " degrees");
-        System.out.printf("%.2f", degreesToDisplay);
+//        DecimalFormat df = new DecimalFormat("#.0000");
+        System.out.printf(degrees + " degrees, " + minutes + " minutes, " + seconds + " seconds = " + "%.4f" + " degrees", degreesToDisplay);
     }
 
-    public static double convertToDecimalDegrees(int d, int m, int s){
-        return d + ((double)m/ MINUTES_COEFICIENT) + ((double)s / SECONDS_COEFICIENT);
+    public static double convertToDecimalDegrees(int d, int m, int s) {
+        return d + ((double) m / MINUTES_COEFICIENT) + ((double) s / SECONDS_COEFICIENT);
     }
 }
