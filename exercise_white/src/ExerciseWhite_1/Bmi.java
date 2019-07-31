@@ -17,6 +17,8 @@ public class Bmi {
         double weightKg = weight / 2.2;
         double bmi = weightKg / (heightInMeters*heightInMeters);
         System.out.println("Your BMI is " + bmi);
+
+        double result = Degrees.convertToDecimalDegrees(32, 65, 678);
     }
 }
 
