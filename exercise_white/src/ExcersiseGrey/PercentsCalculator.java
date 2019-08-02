@@ -17,7 +17,7 @@ public class PercentsCalculator {
         System.out.printf("Total Loan Amount = " + "%.2f" + "\n", totalAmount);
         System.out.printf("Monthly Rate = " + "%.2f" + "\n", monthlyRate);
         for (int i = 0; i < loanDuration; i++) {
-            System.out.printf("Balance after month "+ (i+1) +" = " + "%.2f" + "\n", (totalAmount - monthlyRate*(i+1)));
+            System.out.printf("Balance after month # "+ (i+1) +" = " + "%.2f" + "\n", (totalAmount - monthlyRate*(i+1)));
 
         }
     }
