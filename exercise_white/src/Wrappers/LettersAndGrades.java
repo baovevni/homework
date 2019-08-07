@@ -10,7 +10,7 @@ public class LettersAndGrades {
 
         int num = 0;
 
-        switch(grade){
+        switch (grade) {
             case "A":
                 num = 4;
                 break;
@@ -26,9 +26,9 @@ public class LettersAndGrades {
             case "E":
                 num = 0;
                 break;
-                default:
-                    System.out.printf("%s is an invalid grade", grade);
-                    break;
+            default:
+                System.out.printf("%s is an invalid grade", grade);
+                break;
         }
         System.out.printf("The numeric value of grade %s is %d", grade, num);
     }
