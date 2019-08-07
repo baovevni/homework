@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a582109-0678-44df-90f2-f763b55d337f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExerciseWhite_1/Degrees.java" afterDir="false" />
+    <list default="true" id="5a582109-0678-44df-90f2-f763b55d337f" name="Default Changelist" comment="Changed logic in some tasks">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcersiseGrey/SeparateSymbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcersiseGrey/SquaresCubes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/ASCIIToCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/CelsiusToFarenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/CharacterToASCII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/DecimalToHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/Fitting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/GreatCircleDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/LettersAndGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/MinutesInYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/NegPozZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/PentagonArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/PhoneKeypads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/RadiusAndVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/TipsCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/Uninitialized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/VowelOrConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrappers/WrapperDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcersiseGrey/DollarsAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcersiseGrey/DollarsAmount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseWhite_1/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseWhite_1/Bmi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,109 +34,96 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/Height.java">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/RadiusAndVolume.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="120">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/inches.java">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/MinutesInYears.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="135">
+              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/PentagonArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/CharacterToASCII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/ASCIIToCharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/DecimalToHex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/VowelOrConsonant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/LettersAndGrades.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/Degrees.java">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/GreatCircleDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="22" column="71" lean-forward="true" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/Bmi.java">
+        <entry file="file://$PROJECT_DIR$/src/Wrappers/PhoneKeypads.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/TIme.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/UsPopulation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/GasConsumption.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/lkmToMpg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="78" lean-forward="true" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExcersiseGrey/AddingPercents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExcersiseGrey/DollarsAmount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="120">
+              <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -132,6 +138,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="baovevni" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -141,12 +152,38 @@
         <option value="$PROJECT_DIR$/src/ExerciseWhite_1/Height.java" />
         <option value="$PROJECT_DIR$/src/ExerciseWhite_1/GasConsumption.java" />
         <option value="$PROJECT_DIR$/src/ExerciseWhite_1/lkmToMpg.java" />
-        <option value="$PROJECT_DIR$/src/ExerciseWhite_1/UsPopulation.java" />
         <option value="$PROJECT_DIR$/src/ExcersiseGrey/AddingPercents.java" />
-        <option value="$PROJECT_DIR$/src/ExerciseWhite_1/TIme.java" />
-        <option value="$PROJECT_DIR$/src/ExerciseWhite_1/Degrees.java" />
-        <option value="$PROJECT_DIR$/src/ExerciseWhite_1/Bmi.java" />
         <option value="$PROJECT_DIR$/src/ExcersiseGrey/DollarsAmount.java" />
+        <option value="$PROJECT_DIR$/src/ExerciseWhite_1/Degrees.java" />
+        <option value="$PROJECT_DIR$/src/ExerciseWhite_1/TIme.java" />
+        <option value="$PROJECT_DIR$/src/ExerciseWhite_1/UsPopulation.java" />
+        <option value="$PROJECT_DIR$/src/ExerciseWhite_1/Bmi.java" />
+        <option value="$PROJECT_DIR$/src/ExerciseWhite_1/PercentsCalculator.java" />
+        <option value="$PROJECT_DIR$/src/ExcersiseGrey/PercentsCalculator.java" />
+        <option value="$PROJECT_DIR$/src/ExcersiseGrey/SeparateSymbols.java" />
+        <option value="$PROJECT_DIR$/src/ExcersiseGrey/SquaresCubes.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/NegPozZero.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/Uninitialized.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/StaticDemo.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/WrapperDemo.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/Fitting.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/Cache.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/CelsiusToFarenheit.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/RadiusAndVolume.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/TipsCalculator.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/SumDigits.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/SecondsInYears.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/MinutesInYears.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/PentagonArea.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/CharacterToASCII.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/DecimalToHex.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/WowelOrConstant.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/ASCIIToCharacter.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/WowelOrConsonant.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/LettersAndGrades.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/PhoneKeypads.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/VowelOrConsonant.java" />
+        <option value="$PROJECT_DIR$/src/Wrappers/GreatCircleDistance.java" />
       </list>
     </option>
   </component>
@@ -163,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,10 +224,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ExerciseWhite_1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exercise_white" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_white" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Wrappers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -211,20 +254,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Degrees">
+  <component name="RunManager" selected="Application.GreatCircleDistance">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddingPercents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExcersiseGrey.AddingPercents" />
+    <configuration name="GreatCircleDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wrappers.GreatCircleDistance" />
       <module name="exercise_white" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExcersiseGrey.*" />
+          <option name="PATTERN" value="Wrappers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,13 +275,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Degrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseWhite_1.Degrees" />
+    <configuration name="LettersAndGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wrappers.LettersAndGrades" />
       <module name="exercise_white" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciseWhite_1.*" />
+          <option name="PATTERN" value="Wrappers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,13 +289,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DollarsAmount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExcersiseGrey.DollarsAmount" />
+    <configuration name="PhoneKeypads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wrappers.PhoneKeypads" />
       <module name="exercise_white" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExcersiseGrey.*" />
+          <option name="PATTERN" value="Wrappers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,13 +303,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsPopulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseWhite_1.UsPopulation" />
+    <configuration name="VowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wrappers.VowelOrConsonant" />
       <module name="exercise_white" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciseWhite_1.*" />
+          <option name="PATTERN" value="Wrappers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wrappers.WowelOrConsonant" />
+      <module name="exercise_white" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Wrappers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,20 +333,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lkmToMpg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseWhite_1.lkmToMpg" />
-      <module name="exercise_white" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExerciseWhite_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -321,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Degrees" />
-        <item itemvalue="Application.DollarsAmount" />
-        <item itemvalue="Application.AddingPercents" />
-        <item itemvalue="Application.UsPopulation" />
-        <item itemvalue="Application.lkmToMpg" />
+        <item itemvalue="Application.GreatCircleDistance" />
+        <item itemvalue="Application.VowelOrConsonant" />
+        <item itemvalue="Application.PhoneKeypads" />
+        <item itemvalue="Application.LettersAndGrades" />
+        <item itemvalue="Application.WowelOrConsonant" />
       </list>
     </recent_temporary>
   </component>
@@ -340,6 +383,28 @@
       <option name="presentableId" value="Default" />
       <updated>1564489534152</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed logic in some tasks">
+      <created>1564591144393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564591144393</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed logic in some tasks">
+      <created>1564741879955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564741879955</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Percents Calculator refactoring">
+      <created>1564760133670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564760133670</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -351,7 +416,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32963988" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -359,11 +424,12 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32963988" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.31855956" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" x="0" y="0" width="310" height="614" id="Documentation" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -373,6 +439,11 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed logic in some tasks" />
+    <MESSAGE value="Percents Calculator refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Percents Calculator refactoring" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -407,51 +478,10 @@ d1f.format(amount*1.05);</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/Height.java">
+    <entry file="file://$PROJECT_DIR$/src/ExcersiseGrey/DollarsAmount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/inches.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/UsPopulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/Bmi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/GasConsumption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/lkmToMpg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="78" lean-forward="true" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -465,27 +495,222 @@ d1f.format(amount*1.05);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/TIme.java">
+    <entry file="file://$PROJECT_DIR$/src/ExcersiseGrey/PercentsCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExcersiseGrey/DollarsAmount.java">
+    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/Bmi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExcersiseGrey/SquaresCubes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/Uninitialized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/StaticDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/CelsiusToFarenheit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/Fitting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/TipsCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/SumDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/UsPopulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/TIme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/lkmToMpg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/inches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/Height.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/GasConsumption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExerciseWhite_1/Degrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
+        <state relative-caret-position="200">
+          <caret line="20" column="108" selection-start-line="20" selection-start-column="102" selection-end-line="20" selection-end-column="108" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/WrapperDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/NegPozZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExcersiseGrey/SeparateSymbols.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/MinutesInYears.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/PhoneKeypads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/PentagonArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/LettersAndGrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/VowelOrConsonant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/ASCIIToCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/CharacterToASCII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/RadiusAndVolume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/DecimalToHex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wrappers/GreatCircleDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="71" lean-forward="true" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
         </state>
       </provider>
     </entry>
