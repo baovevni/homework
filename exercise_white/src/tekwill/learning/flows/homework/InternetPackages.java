@@ -14,43 +14,52 @@ public class InternetPackages {
 
 
     public static void main(String[] args) {
-        System.out.println("Enter the package: ->");
         Scanner in = new Scanner(System.in);
-        String pack = in.next().toUpperCase();
-        if (pack.contentEquals("C")) {
-            System.out.printf("Total Charges: %.2f", PRICE_PACKAGE_C);
-        } else {
-            System.out.println("Enter the amount of hours used: ->");
-            int hours = in.nextInt();
-            double totalCharges = 0;
-            double extraHours;
-            double extraHoursPrice;
-            boolean def = false;
+        boolean again = false;
+        do {
+            System.out.println("Enter the package: ->");
+            String pack = in.next().toUpperCase();
+            if (pack.equals("A") || pack.equals("B") || pack.equals("C")) {
+                if (pack.equals("C")) {
+                    System.out.printf("Total Charges: %.2f", PRICE_PACKAGE_C);
+                } else {
+                    System.out.println("Enter the amount of hours used: ->");
+                    int hours = in.nextInt();
+                    double totalCharges = 0;
+                    double extraHours;
+                    double extraHoursPrice;
 
 
-            switch (pack) {
-                case "A":
-                    if (hours > HOURS_IN_PACKAGE_A) {
-                        extraHours = hours - HOURS_IN_PACKAGE_A;
-                        extraHoursPrice = extraHours * PRICE_PER_HOUR_A;
-                        totalCharges = extraHoursPrice + PRICE_PACKAGE_A;
+                    switch (pack) {
+                        case "A":
+                            if (hours > HOURS_IN_PACKAGE_A) {
+                                extraHours = hours - HOURS_IN_PACKAGE_A;
+                                extraHoursPrice = extraHours * PRICE_PER_HOUR_A;
+                                totalCharges = extraHoursPrice + PRICE_PACKAGE_A;
+                            } else {
+                                totalCharges = PRICE_PACKAGE_A;
+                            }
+                            break;
+                        case "B":
+                            if (hours > HOURS_IN_PACKAGE_B) {
+                                extraHours = hours - HOURS_IN_PACKAGE_B;
+                                extraHoursPrice = extraHours * PRICE_PER_HOUR_B;
+                                totalCharges = extraHoursPrice + PRICE_PACKAGE_B;
+                            } else {
+                                totalCharges = PRICE_PACKAGE_B;
+                            }
+                            break;
+
                     }
+                    System.out.printf("Total Charges: %.2f", totalCharges);
                     break;
-                case "B":
-                    if (hours > HOURS_IN_PACKAGE_B) {
-                        extraHours = hours - HOURS_IN_PACKAGE_B;
-                        extraHoursPrice = extraHours * PRICE_PER_HOUR_B;
-                        totalCharges = extraHoursPrice + PRICE_PACKAGE_B;
-                    }
-                    break;
-                default:
-                    def = true;
-                    System.out.printf("%s Not a package", pack);
-                    break;
+                }
+            } else {
+                System.out.printf("%s - not a package, try again -> true for again false for finish", pack);
+                again = in.nextBoolean();
             }
-            if (!def)
-                System.out.printf("Total Charges: %.2f", totalCharges);
-        }
+
+        } while (again);
+        in.close();
     }
 }
-
