@@ -9,6 +9,7 @@ public class LettersAndGrades {
         String grade = in.next().toUpperCase();
 
         int num = 0;
+        boolean def = false;
 
         switch (grade) {
             case "A":
@@ -27,9 +28,12 @@ public class LettersAndGrades {
                 num = 0;
                 break;
             default:
+                def = true;
                 System.out.printf("%s is an invalid grade", grade);
                 break;
         }
-        System.out.printf("The numeric value of grade %s is %d", grade, num);
+        if(!def) {
+            System.out.printf("The numeric value of grade %s is %d", grade, num);
+        }
     }
 }

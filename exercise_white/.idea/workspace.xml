@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a582109-0678-44df-90f2-f763b55d337f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tekwill/learning/nestedifs/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/FatCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/SoundSpeed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcersiseGrey/AddingPercents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExcersiseGrey/AddingPercents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcersiseGrey/DollarsAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExcersiseGrey/DollarsAmount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcersiseGrey/PercentsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExcersiseGrey/PercentsCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcersiseGrey/SeparateSymbols.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExcersiseGrey/SeparateSymbols.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcersiseGrey/SquaresCubes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExcersiseGrey/SquaresCubes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseWhite_1/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExerciseWhite_1/Bmi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseWhite_1/Degrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExerciseWhite_1/Degrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseWhite_1/GasConsumption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExerciseWhite_1/GasConsumption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseWhite_1/Height.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExerciseWhite_1/Height.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseWhite_1/TIme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExerciseWhite_1/TIme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseWhite_1/UsPopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExerciseWhite_1/UsPopulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseWhite_1/inches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExerciseWhite_1/inches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseWhite_1/lkmToMpg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/ExerciseWhite_1/lkmToMpg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/ASCIIToCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/ASCIIToCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/AreaOfATriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/Cache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/CelsiusToFarenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/CelsiusToFarenheit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/CharacterToASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/CharacterToASCII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/DecimalToHex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/DecimalToHex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/Fitting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/Fitting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/GreatCircleDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/GreatCircleDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/LettersAndGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/MinutesInYears.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/MinutesInYears.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/NegPozZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/NegPozZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/PentagonArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/PentagonArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/PhoneKeypads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/PhoneKeypads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/RadiusAndVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/RadiusAndVolume.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/StaticDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/SumDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/TipsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/TipsCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/Uninitialized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/Uninitialized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/VowelOrConsonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/VowelOrConsonant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrappers/WrapperDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/WrapperDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,28 +22,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/MinutesInYears.java">
+        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="405">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/nestedifs/demo.java">
+        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/FatCalc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/SoundSpeed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java">
+        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="425">
+              <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -80,26 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/Cache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/CelsiusToFarenheit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="353">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -107,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/CharacterToASCII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
@@ -116,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/DecimalToHex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
@@ -125,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/Fitting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
@@ -134,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/GreatCircleDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
@@ -202,6 +173,11 @@
         <option value="$PROJECT_DIR$/src/tekwill/learning/wrappers/MinutesInYears.java" />
         <option value="$PROJECT_DIR$/src/tekwill/learning/nestedifs/demo.java" />
         <option value="$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/FatCalc.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/SoundSpeed.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java" />
       </list>
     </option>
   </component>
@@ -218,6 +194,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,14 +219,12 @@
               <item name="exercise_white" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learning" type="462c0819:PsiDirectoryNode" />
-              <item name="wrappers" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,15 +243,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AreaOfATriangle">
+  <component name="RunManager" selected="Application.InternetPackages">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfATriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.learning.wrappers.AreaOfATriangle" />
+    <configuration name="FatCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.FatCalc" />
+      <module name="exercise_white" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tekwill.learning.flows.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InternetPackages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.InternetPackages" />
+      <module name="exercise_white" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tekwill.learning.flows.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LettersAndGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tekwill.learning.wrappers.LettersAndGrades" />
       <module name="exercise_white" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -288,13 +292,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterToASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.learning.wrappers.CharacterToASCII" />
+    <configuration name="RomanLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.RomanLetters" />
       <module name="exercise_white" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tekwill.learning.wrappers.*" />
+          <option name="PATTERN" value="tekwill.learning.flows.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,27 +306,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatCircleDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.learning.wrappers.GreatCircleDistance" />
+    <configuration name="SoundSpeed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.SoundSpeed" />
       <module name="exercise_white" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tekwill.learning.wrappers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.learning.wrappers.VowelOrConsonant" />
-      <module name="exercise_white" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tekwill.learning.wrappers.*" />
+          <option name="PATTERN" value="tekwill.learning.flows.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,20 +322,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.learning.nestedifs.demo" />
-      <module name="exercise_white" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tekwill.learning.nestedifs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -377,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AreaOfATriangle" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.VowelOrConsonant" />
-        <item itemvalue="Application.CharacterToASCII" />
-        <item itemvalue="Application.GreatCircleDistance" />
+        <item itemvalue="Application.InternetPackages" />
+        <item itemvalue="Application.SoundSpeed" />
+        <item itemvalue="Application.FatCalc" />
+        <item itemvalue="Application.RomanLetters" />
+        <item itemvalue="Application.LettersAndGrades" />
       </list>
     </recent_temporary>
   </component>
@@ -443,20 +419,19 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32963988" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32921812" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32963988" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32921812" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.31550068" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39889196" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3978052" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" x="0" y="0" width="310" height="614" id="Documentation" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -465,6 +440,7 @@
       <window_info anchor="right" id="Commander" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="310" height="614" id="Documentation" order="8" side_tool="true" weight="0.3297568" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -472,6 +448,18 @@
     <MESSAGE value="New tasks added" />
     <MESSAGE value="Changed logic in some tasks" />
     <option name="LAST_COMMIT_MESSAGE" value="Changed logic in some tasks" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -686,55 +674,6 @@ d1f.format(amount*1.05);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/CelsiusToFarenheit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/CharacterToASCII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/DecimalToHex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/Fitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/GreatCircleDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/MinutesInYears.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -745,14 +684,91 @@ d1f.format(amount*1.05);</expression-string>
     <entry file="file://$PROJECT_DIR$/src/tekwill/learning/nestedifs/demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/CelsiusToFarenheit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/CharacterToASCII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/DecimalToHex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/Fitting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/GreatCircleDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/FatCalc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/SoundSpeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
         </state>
       </provider>
     </entry>
