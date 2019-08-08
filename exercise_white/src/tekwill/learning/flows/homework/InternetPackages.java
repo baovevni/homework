@@ -55,7 +55,7 @@ public class InternetPackages {
                     break;
                 }
             } else {
-                System.out.printf("%s - not a package, try again -> true for again false for finish", pack);
+                System.out.printf("%s - not a package, try again -> true for again false for finish\n", pack);
                 again = in.nextBoolean();
             }
 

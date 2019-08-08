@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a582109-0678-44df-90f2-f763b55d337f" name="Default Changelist" comment="">
+    <list default="true" id="5a582109-0678-44df-90f2-f763b55d337f" name="Default Changelist" comment="Refactoring of new tasks">
+      <change afterPath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/DaysInMonths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/VowelsAndConsonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/Weekdays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="360">
+              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -28,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="795">
+              <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -46,53 +52,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/SoundSpeed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
+            <state relative-caret-position="92">
               <caret line="14" column="33" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+            <state relative-caret-position="165">
+              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java">
+        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/DaysInMonths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="309">
+              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/CharacterToASCII.java">
+        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/Weekdays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="41">
+              <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/VowelsAndConsonants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/DecimalToHex.java">
+        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/VowelOrConsonant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/Fitting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -100,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/GreatCircleDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="47">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
@@ -167,12 +173,15 @@
         <option value="$PROJECT_DIR$/src/tekwill/Wrappers/wrappers/AreaOfATriangle.java" />
         <option value="$PROJECT_DIR$/src/tekwill/learning/wrappers/MinutesInYears.java" />
         <option value="$PROJECT_DIR$/src/tekwill/learning/nestedifs/demo.java" />
-        <option value="$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java" />
-        <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java" />
         <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/FatCalc.java" />
         <option value="$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java" />
         <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/SoundSpeed.java" />
         <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/DaysInMonths.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/Weekdays.java" />
+        <option value="$PROJECT_DIR$/src/tekwill/learning/flows/homework/VowelsAndConsonants.java" />
       </list>
     </option>
   </component>
@@ -216,6 +225,13 @@
               <item name="learning" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exercise_white" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_white" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="wrappers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -238,15 +254,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InternetPackages">
+  <component name="RunManager" selected="Application.VowelsAndConsonants">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FatCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.FatCalc" />
+    <configuration name="DaysInMonths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.DaysInMonths" />
       <module name="exercise_white" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -273,20 +289,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LettersAndGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.learning.wrappers.LettersAndGrades" />
-      <module name="exercise_white" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tekwill.learning.wrappers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RomanLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.RomanLetters" />
       <module name="exercise_white" />
@@ -301,8 +303,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoundSpeed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.SoundSpeed" />
+    <configuration name="VowelsAndConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.VowelsAndConsonants" />
+      <module name="exercise_white" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tekwill.learning.flows.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Weekdays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tekwill.learning.flows.homework.Weekdays" />
       <module name="exercise_white" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -348,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InternetPackages" />
-        <item itemvalue="Application.SoundSpeed" />
-        <item itemvalue="Application.FatCalc" />
+        <item itemvalue="Application.VowelsAndConsonants" />
+        <item itemvalue="Application.Weekdays" />
+        <item itemvalue="Application.DaysInMonths" />
         <item itemvalue="Application.RomanLetters" />
-        <item itemvalue="Application.LettersAndGrades" />
+        <item itemvalue="Application.InternetPackages" />
       </list>
     </recent_temporary>
   </component>
@@ -630,13 +646,6 @@ d1f.format(amount*1.05);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/VowelOrConsonant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/RadiusAndVolume.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -721,24 +730,17 @@ d1f.format(amount*1.05);</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/GreatCircleDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="47">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -749,24 +751,59 @@ d1f.format(amount*1.05);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/LettersAndGrades.java">
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="165">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/DaysInMonths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/RomanLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/AreaOfATriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/SoundSpeed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
+        <state relative-caret-position="92">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/InternetPackages.java">
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/wrappers/VowelOrConsonant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+        <state relative-caret-position="135">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/Weekdays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tekwill/learning/flows/homework/VowelsAndConsonants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
