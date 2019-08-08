@@ -17,35 +17,33 @@ public class InternetPackages {
         System.out.println("Enter the package: ->");
         Scanner in = new Scanner(System.in);
         String pack = in.next().toUpperCase();
-        if (pack.contentEquals( "C")) {
+        if (pack.contentEquals("C")) {
             System.out.printf("Total Charges: %.2f", PRICE_PACKAGE_C);
-        }
-        else {
-        System.out.println("Enter the amount of hours used: ->");
-        int hours = in.nextInt();
-        double totalCharges = 0;
-        double extraHours;
-        double extraHoursPrice;
-        boolean def = false;
-
+        } else {
+            System.out.println("Enter the amount of hours used: ->");
+            int hours = in.nextInt();
+            double totalCharges = 0;
+            double extraHours;
+            double extraHoursPrice;
+            boolean def = false;
 
 
             switch (pack) {
-                case "A" :
+                case "A":
                     if (hours > HOURS_IN_PACKAGE_A) {
                         extraHours = hours - HOURS_IN_PACKAGE_A;
                         extraHoursPrice = extraHours * PRICE_PER_HOUR_A;
                         totalCharges = extraHoursPrice + PRICE_PACKAGE_A;
                     }
                     break;
-                case "B" :
+                case "B":
                     if (hours > HOURS_IN_PACKAGE_B) {
                         extraHours = hours - HOURS_IN_PACKAGE_B;
                         extraHoursPrice = extraHours * PRICE_PER_HOUR_B;
                         totalCharges = extraHoursPrice + PRICE_PACKAGE_B;
                     }
                     break;
-                default :
+                default:
                     def = true;
                     System.out.printf("%s Not a package", pack);
                     break;
