@@ -22,13 +22,13 @@ public class InternetPackages {
             if (pack.equals("A") || pack.equals("B") || pack.equals("C")) {
                 if (pack.equals("C")) {
                     System.out.printf("Total Charges: %.2f", PRICE_PACKAGE_C);
-                } else {
+                    again = false;
+                } else{
                     System.out.println("Enter the amount of hours used: ->");
                     int hours = in.nextInt();
                     double totalCharges = 0;
                     double extraHours;
                     double extraHoursPrice;
-
 
                     switch (pack) {
                         case "A":
@@ -51,8 +51,8 @@ public class InternetPackages {
                             break;
 
                     }
-                    System.out.printf("Total Charges: %.2f", totalCharges);
-                    break;
+                        System.out.printf("Total Charges: %.2f", totalCharges);
+                        break;
                 }
             } else {
                 System.out.printf("%s - not a package, try again -> true for again false for finish\n", pack);

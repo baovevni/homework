@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class RomanLetters {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        boolean again = false;
+        boolean again = true;
         do {
             System.out.println("Enter a number within 1 and 10: -> ");
             int number = in.nextInt();
