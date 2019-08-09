@@ -15,7 +15,7 @@ public class InternetPackages {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        boolean again = false;
+        boolean again;
         do {
             System.out.println("Enter the package: ->");
             String pack = in.next().toUpperCase();
