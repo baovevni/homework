@@ -9,7 +9,6 @@ public class VowelsAndConsonants {
         do {
             System.out.print("Input alphabet: ");
             char c = in.next().toLowerCase().charAt(0);
-//            boolean def = false;
             if (Character.isAlphabetic(c)) {
                 switch (c) {
                     case 'a':
@@ -21,7 +20,6 @@ public class VowelsAndConsonants {
                         again = false;
                         break;
                     default:
-//                        def = true;
                         System.out.printf("'%s' is consonant", c);
                         again = false;
                         break;
@@ -29,10 +27,8 @@ public class VowelsAndConsonants {
             } else {
                 System.out.printf("%s is not an alphabet!\nDo you want to try again? enter true or false\n", c);
                 again = in.nextBoolean();
-            }//if(def){
-              //  break;
-           // }
-        }while (again);
+            }
+        } while (again);
         in.close();
     }
 }

@@ -4,15 +4,15 @@ import java.util.Scanner;
 
 public class SoundSpeed {
 
-    public static final int SPEED_IN_AIR_COEFFICIENT = 1100;
-    public static final int SPEED_IN_WATER_COEFFICIENT = 4900;
-    public static final int SPEED_IN_STEEL_COEFFICIENT = 16400;
+    public static final int SPEED_OF_SOUND_IN_AIR = 1100;
+    public static final int SPEED_OF_SOUND_IN_WATER = 4900;
+    public static final int SPEED_OF_SOUND_IN_STEEL = 16400;
 
     public static void main(String[] args) {
         System.out.println("Enter the medium: ->");
         Scanner in = new Scanner(System.in);
         String medium = in.next();
-        if (medium.contentEquals("air") || medium.contentEquals("water") || medium.contentEquals("steel")) {
+        if (medium.equals("air") || medium.equals("water") || medium.equals("steel")) {
             System.out.println("Enter the distance in feet: ->");
             double distance = in.nextDouble();
             double time = 0;
@@ -20,13 +20,13 @@ public class SoundSpeed {
 
             switch (medium) {
                 case "air":
-                    time = distance / SPEED_IN_AIR_COEFFICIENT;
+                    time = distance / SPEED_OF_SOUND_IN_AIR;
                     break;
                 case "water":
-                    time = distance / SPEED_IN_WATER_COEFFICIENT;
+                    time = distance / SPEED_OF_SOUND_IN_WATER;
                     break;
                 case "steel":
-                    time = distance / SPEED_IN_STEEL_COEFFICIENT;
+                    time = distance / SPEED_OF_SOUND_IN_STEEL;
                     break;
                 default:
                     def = true;

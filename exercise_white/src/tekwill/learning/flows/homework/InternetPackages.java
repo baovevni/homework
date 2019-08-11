@@ -15,15 +15,15 @@ public class InternetPackages {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        boolean again;
+        char again = 'y';
         do {
             System.out.println("Enter the package: ->");
             String pack = in.next().toUpperCase();
             if (pack.equals("A") || pack.equals("B") || pack.equals("C")) {
                 if (pack.equals("C")) {
                     System.out.printf("Total Charges: %.2f", PRICE_PACKAGE_C);
-                    again = false;
-                } else{
+                    again = 'n';
+                } else {
                     System.out.println("Enter the amount of hours used: ->");
                     int hours = in.nextInt();
                     double totalCharges = 0;
@@ -51,15 +51,16 @@ public class InternetPackages {
                             break;
 
                     }
-                        System.out.printf("Total Charges: %.2f", totalCharges);
-                        break;
+                    System.out.printf("Total Charges: %.2f", totalCharges);
+                    break;
                 }
             } else {
-                System.out.printf("%s - not a package, try again -> true for again false for finish\n", pack);
-                again = in.nextBoolean();
+                System.out.printf("%s - not a package, try again -> y for again n for finish\n", pack);
+                in.nextLine();
+                again = in.nextLine().toLowerCase().charAt(0);
             }
 
-        } while (again);
+        } while (again == 'y');
         in.close();
     }
 }
