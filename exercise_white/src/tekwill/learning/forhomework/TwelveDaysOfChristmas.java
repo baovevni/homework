@@ -2,45 +2,49 @@ package tekwill.learning.forhomework;
 
 public class TwelveDaysOfChristmas {
     public static void main(String[] args) {
-        for (int i = 0; i <= 12; i++) {
+        for (int i = 1; i <= 12; i++) {
+            String day = "";
             switch (i) {
                 case 1:
-                    System.out.println("On the first day of Christmas my true love sent to me");
+                    day = "first";
                     break;
                 case 2:
-                    System.out.println("On the second day of Christmas my true love sent to me");
+                    day = "second";
                     break;
                 case 3:
-                    System.out.println("On the third day of Christmas my true love sent to me");
+                    day = "third";
                     break;
                 case 4:
-                    System.out.println("On the fourth day of Christmas my true love sent to me");
+                    day = "fourth";
                     break;
                 case 5:
-                    System.out.println("On the fifth day of Christmas my true love sent to me");
+                    day = "fifth";
                     break;
                 case 6:
-                    System.out.println("On the sixth day of Christmas my true love sent to me");
+                    day = "sixth";
                     break;
                 case 7:
-                    System.out.println("On the seventh day of Christmas my true love sent to me");
+                    day = "seventh";
                     break;
                 case 8:
-                    System.out.println("On the eighth day of Christmas my true love sent to me");
+                    day = "eigth";
                     break;
                 case 9:
-                    System.out.println("On the ninth day of Christmas my true love sent to me");
+                    day = "ninth";
                     break;
                 case 10:
-                    System.out.println("On the tenth day of Christmas my true love sent to me");
+                    day = "tenth";
                     break;
                 case 11:
-                    System.out.println("On the eleventh day of Christmas my true love sent to me");
+                    day = "eleventh";
                     break;
                 case 12:
-                    System.out.println("On the twelfth day of Christmas my true love sent to me");
+                    day = "twelfth";
                     break;
+
             }
+            System.out.printf("On the %s day of Christmas \nMy true love sent to me \n", day);
+
             switch (i) {
                 case 12:
                     System.out.print("Twelve drummers drumming\n");

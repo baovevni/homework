@@ -15,14 +15,14 @@ public class InternetPackages {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        char again = 'y';
+        String again = "yes";
         do {
             System.out.println("Enter the package: ->");
             String pack = in.next().toUpperCase();
             if (pack.equals("A") || pack.equals("B") || pack.equals("C")) {
                 if (pack.equals("C")) {
                     System.out.printf("Total Charges: %.2f", PRICE_PACKAGE_C);
-                    again = 'n';
+                    again = "no";
                 } else {
                     System.out.println("Enter the amount of hours used: ->");
                     int hours = in.nextInt();
@@ -57,10 +57,9 @@ public class InternetPackages {
             } else {
                 System.out.printf("%s - not a package, try again -> y for again n for finish\n", pack);
                 in.nextLine();
-                again = in.nextLine().toLowerCase().charAt(0);
+                again = in.nextLine().toLowerCase();
             }
-
-        } while (again == 'y');
+        } while (again.equals("yes"));
         in.close();
     }
 }
