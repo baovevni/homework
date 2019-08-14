@@ -12,7 +12,7 @@ public class IntegersMultiplying {
         int result = 0;
         for (; i <= f; i++) {
             result +=i;
-            System.out.println(result);
         }
+        System.out.println(result);
     }
 }
