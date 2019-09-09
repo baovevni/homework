@@ -1,4 +1,4 @@
-package tekwill.learning.loopstrainig.loopshomework;
+package tekwill.learning.loopshomework;
 
 import java.util.Scanner;
 
